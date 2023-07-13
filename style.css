@@ -1,0 +1,265 @@
+body,main,footer{
+    margin: 0px;
+}
+
+.main-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.header{
+    background-color:rgb(238, 234, 226);
+}
+.banner{
+    display:flex;
+    padding:30px 30px 0px 100px;
+    align-items:center;
+
+}
+.banner .first-image{
+    width: 500px;
+    height: 600px;
+
+}
+.banner-content{
+    max-width: 700px;
+    
+}
+.main-title-para{
+    color:rgb(31, 34, 34);
+    font-size: 15px;
+}
+
+.primary-btn{
+    border-radius: 8px;
+    background-color: rgb(236, 142, 19);
+    padding: 20px 20px 20px 40px;
+    font-size: 20px;
+    border-color: rgb(236, 142, 19);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
+.spotlight-flowers{
+    text-align: center;
+    padding: 50px 200px;
+
+}
+
+.spotlight-title{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(236, 142, 19) ;
+}
+
+.spotlight-description{
+    font-size: 15px;
+}
+
+.picture-spotlight{
+    width: 300px;
+    height: 350px;
+
+    
+}
+
+.spotlight-pictures{
+    display: flex;
+    padding: 20px 190px 30px 190px;
+    gap: 50px;
+}
+
+
+.red-image{
+    width: 400px;
+    height: 350px;
+    padding: 110px 78px 0px 76px;
+}
+
+.pink-image{
+    width: 400px;
+    height: 350px;
+    padding: 110px 78px 0px 76px;
+}
+
+.yellow-image{
+    width: 400px;
+    height: 400px;
+    padding: 65px 70px 0px 70px;
+    bottom: 0px;
+}
+
+.view-images{
+    display: flex;
+    font-size: 13px;
+    justify-content: space-around;
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+
+.service-title{
+    font-size: 20px;
+    color: rgb(236, 142, 19);
+    text-align: center;
+    padding: 30px;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+}
+.service{
+    display: flex;
+    font-size: 13px;
+    justify-content: space-around;
+    padding: 30px 0px;
+}
+
+.service-option{
+    background-color: rgb(238, 234, 226);
+}
+
+.hot-deal-offer{
+    background-color: rgb(238, 234, 226);
+    margin: 100px 0px 100px 0px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.big-sale{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding: 50px 0px 20px 0px;
+}
+.big-sale span{
+    color: crimson;
+}
+
+.big-sale-description{
+    padding: 0px 50px 50px 50px;
+    font-size: ;
+}
+.big-sale-img{
+    width: 200px;
+    padding: 40px;
+}
+
+.galary-title{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(236, 142, 19);
+}
+
+
+.galary-photo{
+   
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    
+
+
+}
+
+.photo-galary-pic{
+    height: 300px;
+    width: 250px;
+    padding: 30px;
+}
+.galary-photo-2{
+    margin: auto;
+    display: flex;
+    gap: 20px;
+}
+.join-us-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(236, 142, 19);
+
+}
+.bg-text{
+    text-align: center;
+    padding: 60px ;
+}
+.join-us-para{
+    padding:10px ;
+}
+
+.bg-image{
+    background-image: url('./images/Rectangle\ 9.png');
+    height: 300px ;
+    width: 1000px;
+    background-repeat: no-repeat;
+    margin: 160px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.submit-btn{
+
+    padding: 20px;
+    background-color: rgb(236, 142, 19);
+    color:white;
+    border-radius: 10px;
+    border: none;
+}
+
+
+.email-submit-filed{
+   padding: 20px;
+   width: 500px;
+   border-radius: 10px;
+   border: none;
+   
+}
+
+.faq-title{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(236, 142, 19);
+}
+
+.faq-container{
+    display: flex;
+    gap: 50px;
+    padding: 40px;
+}
+
+.faq-item-question{
+    padding: 10px;
+}
+
+.faq-item-description{
+    padding: 20px;
+}
+footer{
+    background-color: rgb(66, 53, 44);
+    padding: 50px;
+}
+
+.footer-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-description{
+    color: white;
+    text-align: center;
+}
+
+.purchase-flower{
+    color: rgb(236, 142, 19);
+}
+
+
+.copyright{
+    color: white;
+    text-align: center;
+    font-size: 10px;
+padding: 10px;
