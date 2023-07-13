@@ -2,6 +2,33 @@ body,main,footer{
     margin: 0px;
 }
 
+.nav{
+    background-color: rgb(238, 234, 226);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 150px;
+}
+
+nav >ul{
+    display: flex;
+   
+}
+
+nav li{
+    list-style: none;
+    margin-right: 80px;
+}
+
+nav a{
+    text-decoration: none;
+}
+
 .main-title{
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
